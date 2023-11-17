@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "AK47",
+      "production": ["USSR", "Yugoslavia", "Poland"],
+      "quantity": 23,
+      "price": 1000
+    },
+    {
+      "id": 2,
+      "name": "M4A1",
+      "production": ["USA", "France", "Belgium"],
+      "quantity": 17,
+      "price": 1500
+    },
+    {
+      "id": 3,
+      "name": "Mauser 98k",
+      "production": ["Germany", "Austria", "Poland"],
+      "quantity": 23,
+      "price": 1000
+    },
+    {
+      "id": 4,
+      "name": "ak47",
+      "production": ["USSR", "Yugoslavia", "Poland"],
+      "quantity": 23,
+      "price": 1000
+    },
+    {
+      "id": 5,
+      "name": "ak47",
+      "production": ["USSR", "Yugoslavia", "Poland"],
+      "quantity": 23,
+      "price": 1000
+    },
+    {
+      "id": 6,
+      "name": "ak47",
+      "production": ["USSR", "Yugoslavia", "Poland"],
+      "quantity": 23,
+      "price": 1000
+    }
+  ]
+}
