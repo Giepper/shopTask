@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "AK47",
+      "production": [{ "USSR": 23 }, { "Yugoslavia": 17 }, { "Poland": 10 }],
+      "price": 1000,
+      "photo": "https://pngimg.com/uploads/ak47/ak47_PNG15470.png"
+    },
+    {
+      "id": 2,
+      "name": "M4A1",
+      "production": [{ "USSR": 23 }, { "Yugoslavia": 17 }, { "Poland": 10 }],
+      "price": 1500,
+      "photo": "https://pngimg.com/uploads/ak47/ak47_PNG15470.png"
+    },
+    {
+      "id": 3,
+      "name": "Mauser 98k",
+      "production": [{ "Germany": 6 }, { "Austria": 3 }, { "Poland": 1 }],
+      "price": 1000,
+      "photo": "https://pngimg.com/uploads/ak47/ak47_PNG15470.png"
+    },
+    {
+      "id": 4,
+      "name": "Glock 19",
+      "production": [{ "Germany": 5 }, { "Austria": 7 }, { "Belgium": 5 }],
+      "price": 1000,
+      "photo": "https://pngimg.com/uploads/ak47/ak47_PNG15470.png"
+    },
+    {
+      "id": 5,
+      "name": "MP5",
+      "production": [{ "USSR": 23 }, { "Yugoslavia": 17 }, { "Poland": 10 }],
+      "price": 1000,
+      "photo": "https://pngimg.com/uploads/ak47/ak47_PNG15470.png"
+    },
+    {
+      "id": 6,
+      "name": "P99",
+      "production": [{ "USSR": 23 }, { "Yugoslavia": 17 }, { "Poland": 10 }],
+      "price": 1000,
+      "photo": "https://pngimg.com/uploads/ak47/ak47_PNG15470.png"
+    }
+  ]
+}
