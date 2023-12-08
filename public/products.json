@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Bluza z kapturem czarna",
+      "size": [{ "s": 23 }, { "m": 17 }, { "l": 10 }],
+      "price": 125.99,
+      "photo": "https://img01.ztat.net/article/spp-media-p1/51a7f708192849e28c03da6d56370d7b/7585352c574c41f48bb07e039507f2fd.jpg?imwidth=156&filter=packshot"
+    },
+    {
+      "id": 2,
+      "name": "Bluza z kapturem żółta",
+      "size": [{ "s": 5 }, { "m": 4 }, { "l": 12 }],
+      "price": 125.99,
+      "photo": "https://img01.ztat.net/article/spp-media-p1/52947300f0b94186aba8eb3966509575/d7bafc87b842498bbf4f5810aff4bef6.jpg?imwidth=156&filter=packshot"
+    },
+    {
+      "id": 3,
+      "name": "Bluza z kapturem biała",
+      "size": [{ "s": 6 }, { "m": 7 }, { "l": 23 }],
+      "price": 125.99,
+      "photo": "https://img01.ztat.net/article/spp-media-p1/c6f97c80abbf4825bbc47c352c73206e/1c326f9275ce4a4c8a34f89aa049b235.jpg?imwidth=156&filter=packshot"
+    },
+    {
+      "id": 4,
+      "name": "T-shirt czarny",
+      "size": [{ "s": 15 }, { "m": 18 }, { "l": 9 }],
+      "price": 77.99,
+      "photo": "https://dudziakbhp.pl/pol_pm_Koszulka-t-shirt-ST2000-czarny-2585_1.png"
+    },
+    {
+      "id": 5,
+      "name": "T-shirt niebieski",
+      "size": [{ "s": 9 }, { "m": 1 }, { "l": 4 }],
+      "price": 77.99,
+      "photo": "https://dudziakbhp.pl/pol_pm_Koszulka-t-shirt-ST2000-niebieski-2603_1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "T-shirt biały",
+      "size": [{ "s": 10 }, { "m": 13 }, { "l": 11 }],
+      "price": 77.99,
+      "photo": "https://dudziakbhp.pl/pol_pm_Koszulka-t-shirt-ST2000-szary-2608_1.jpg"
+    }
+  ]
+}
