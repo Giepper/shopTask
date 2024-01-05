@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import Products from "./Product.jsx";
+import Products from "./Product";
 
 const StyledProductsContainer = styled.div`
   width: 100%;
@@ -9,6 +9,7 @@ const StyledProductsContainer = styled.div`
   align-items: center;
   flex-wrap: wrap;
   gap: 1rem;
+  padding: 2rem;
 `;
 
 const ProductsContainer = () => {
